@@ -1,0 +1,16 @@
+C:\Code\CSharpKatas\KatasCSharp\obj\Debug\net5.0\KatasCSharp.csproj.AssemblyReference.cache
+C:\Code\CSharpKatas\KatasCSharp\obj\Debug\net5.0\KatasCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\CSharpKatas\KatasCSharp\obj\Debug\net5.0\KatasCSharp.AssemblyInfoInputs.cache
+C:\Code\CSharpKatas\KatasCSharp\obj\Debug\net5.0\KatasCSharp.AssemblyInfo.cs
+C:\Code\CSharpKatas\KatasCSharp\obj\Debug\net5.0\KatasCSharp.csproj.CoreCompileInputs.cache
+C:\Code\CSharpKatas\KatasCSharp\bin\Debug\net5.0\KatasCSharp.exe
+C:\Code\CSharpKatas\KatasCSharp\bin\Debug\net5.0\KatasCSharp.deps.json
+C:\Code\CSharpKatas\KatasCSharp\bin\Debug\net5.0\KatasCSharp.runtimeconfig.json
+C:\Code\CSharpKatas\KatasCSharp\bin\Debug\net5.0\KatasCSharp.runtimeconfig.dev.json
+C:\Code\CSharpKatas\KatasCSharp\bin\Debug\net5.0\KatasCSharp.dll
+C:\Code\CSharpKatas\KatasCSharp\bin\Debug\net5.0\ref\KatasCSharp.dll
+C:\Code\CSharpKatas\KatasCSharp\bin\Debug\net5.0\KatasCSharp.pdb
+C:\Code\CSharpKatas\KatasCSharp\obj\Debug\net5.0\KatasCSharp.dll
+C:\Code\CSharpKatas\KatasCSharp\obj\Debug\net5.0\ref\KatasCSharp.dll
+C:\Code\CSharpKatas\KatasCSharp\obj\Debug\net5.0\KatasCSharp.pdb
+C:\Code\CSharpKatas\KatasCSharp\obj\Debug\net5.0\KatasCSharp.genruntimeconfig.cache
