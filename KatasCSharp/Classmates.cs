@@ -10,6 +10,7 @@ namespace KatasCSharp
     {
         public static bool BetterThanAverage(int[] ClassPoints, int YourPoints)
         {
+            
             double PointsClass = ClassPoints.Average();
             if(PointsClass < YourPoints)
             {
