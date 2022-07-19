@@ -14,13 +14,13 @@ namespace CSharpKatas.Tests
         public void GreetingShouldReturnHi()
         {
             //Arrange
-            string name = "Ryan";
+            string name = "Jose";
 
             //Act
             string actual = Greeting.Greet(name);
 
             //Assert
-            Assert.Equal("Hello, Ryan how are you doing today?", actual);
+            Assert.Equal("Hello, Jose how are you doing today?", actual);
 
         }
     }
